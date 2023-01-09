@@ -1,0 +1,15 @@
+baseURL: 'https://olliepye.github.io/'
+languageCode: 'en-au'
+title: 'Ruthless Physics'
+theme: 'hugo-PaperMod'
+
+
+params:
+  ShowReadingTime: true
+  defaultTheme: auto
+  profileMode:
+    enabled: true
+    subtitle: "Ollie Pye"
+    buttons:
+      - name: Blog
+        url: "/posts"
