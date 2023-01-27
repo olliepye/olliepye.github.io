@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ruthless Physics</title>
+    <link>https://olliepye.github.io/</link>
+    <description>Recent content on Ruthless Physics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Sat, 07 Jan 2023 11:06:09 +1000</lastBuildDate><atom:link href="https://olliepye.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://olliepye.github.io/about/</link>
+      <pubDate>Tue, 10 Jan 2023 16:44:17 +1000</pubDate>
+      
+      <guid>https://olliepye.github.io/about/</guid>
+      <description>Ollie Pye  Ollie is a Physics graduate and is currently completing his Master of Philosophy in Astrophysics. His research is focused on galaxy evolution and understanding how Active Galactic Nuclei (AGN) behave.
+In 2023, Ollie will commence a new role at the Australian Taxation Office (ATO) as a data scientist. Before commencing his Masters, Ollie was a data analyst for the Queensland Curriculum and Assessment Authority (QCAA).
+Outreach Ollie is very passionate about outreach and has been involved in a number events:</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://olliepye.github.io/posts/welcome/</link>
+      <pubDate>Sat, 07 Jan 2023 11:06:09 +1000</pubDate>
+      
+      <guid>https://olliepye.github.io/posts/welcome/</guid>
+      <description>Welcome to Ruthless Physics Welcome to Ruthless Physics. I have tried on and off to start a blog about astrophysics and I am hoping this is here to stay.
+Why Ruthless Physics? The name &amp;ldquo;Ruthless&amp;rdquo; originates from my Grandma, Ruth. She has always been a big supporter and is always curious to learn more, much like myself.
+What is Ruthless Physics? The aim of this blog is to make astrophysics accessible.</description>
+    </item>
+    
+  </channel>
+</rss>
